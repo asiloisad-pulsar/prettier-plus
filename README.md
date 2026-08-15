@@ -21,7 +21,7 @@ Fork of [prettier-atom](https://github.com/prettier/prettier-atom).
 
 ## Installation
 
-To install `prettier-plus` search for [prettier-plus](https://web.pulsar-edit.dev/packages/prettier-plus) in the Install pane of the Pulsar settings or run `ppm install prettier-plus`. Alternatively, you can run `ppm install asiloisad/pulsar-prettier-plus` to install a package directly from the GitHub repository.
+To install `prettier-plus` search for [prettier-plus](https://web.pulsar-edit.dev/packages/prettier-plus) in the Install pane of the Pulsar settings or run `ppm install prettier-plus`. Alternatively, you can run `ppm install asiloisad-pulsar/prettier-plus` to install a package directly from the GitHub repository.
 
 ## Commands
 
