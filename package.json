@@ -7,7 +7,7 @@
     "javascript",
     "prettier"
   ],
-  "repository": "https://github.com/asiloisad/pulsar-prettier-plus",
+  "repository": "https://github.com/asiloisad-pulsar/prettier-plus",
   "license": "MIT",
   "activationHooks": [
     "core:loaded-shell-environment"
