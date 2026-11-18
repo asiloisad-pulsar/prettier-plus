@@ -2,6 +2,9 @@
 
 Pulsar plugin for formatting files using [Prettier](https://prettier.io).
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [prettier](https://github.com/lumine-code/prettier) and [code-format](https://github.com/lumine-code/code-format).
+
 Fork of [prettier-atom](https://github.com/prettier/prettier-atom).
 
 ## Features
